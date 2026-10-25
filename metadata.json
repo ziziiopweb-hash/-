@@ -1,0 +1,6 @@
+{
+  "name": "SHADOW STORE",
+  "description": "متجر شادو ستور — متجر الشحن الرقمي الموريتاني الأول للألعاب والاشتراكات بأفضل الأسعار وبطرق الدفع المحلية: بنكيلي، مصرفي، سداد.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
